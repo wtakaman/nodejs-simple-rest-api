@@ -13,6 +13,19 @@ database : {
 allowOrigin: "https://local.restapi.com.br"
 ~~~~
 
+## Database
+Create contact table
+~~~~
+// mySQL DB
+database : {
+    "host": "192.168.33.50",
+    "user": "root",
+    "password": "root",
+    "database": "apidb"
+},
+allowOrigin: "https://local.restapi.com.br"
+~~~~
+
 ## API References
 
 ### LIST contact
