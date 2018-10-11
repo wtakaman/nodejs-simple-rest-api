@@ -1,4 +1,7 @@
 # node-rest-api
+- Nodejs 
+- ES6
+- MySQL
 
 ## Configuration
 Create a copy of /app/config/development.sample.js and change the following values:
