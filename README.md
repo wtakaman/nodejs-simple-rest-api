@@ -80,7 +80,7 @@ allowOrigin: "https://local.restapi.com.br"
 					"raw": "{\n\"email\": \"teste@gmail.com\",\n\"phone\": \"1231312\"\n}"
 				},
 				"url": {
-					"raw": "http://local.bravi.com.br:3001/contact",
+					"raw": "http://localhost:3001/contact",
 					"protocol": "http",
 					"host": [
 						"local",
@@ -141,7 +141,7 @@ allowOrigin: "https://local.restapi.com.br"
 					"raw": "{\n\"email\": \"teste@gmail.com\",\n\"phone\": \"888\"\n}"
 				},
 				"url": {
-					"raw": "http://local.bravi.com.br:3001/contact/8",
+					"raw": "http://localhost:3001/contact/8",
 					"protocol": "http",
 					"host": [
 						"local",
@@ -173,7 +173,7 @@ allowOrigin: "https://local.restapi.com.br"
 					"raw": "{\n\"email\": \"teste@gmail.com\",\n\"phone\": \"999999999\"\n}"
 				},
 				"url": {
-					"raw": "http://local.bravi.com.br:3001/contact/8",
+					"raw": "http://localhost:3001/contact/8",
 					"protocol": "http",
 					"host": [
 						"local",
@@ -201,4 +201,3 @@ Just another Node.js app... :)
 
 ## Contributors
 * [Takashi Shimabucuro](mailto:takaman@gmail.com)
-
